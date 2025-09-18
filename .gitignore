@@ -1,0 +1,14 @@
+# Ignore Visual Studio files
+.vs/
+*.vsidx
+*.suo
+*.user
+*.db
+*.sqlite
+
+# Ignore system files
+Thumbs.db
+.DS_Store
+
+# Ignore node_modules if you use Node.js later
+node_modules/
